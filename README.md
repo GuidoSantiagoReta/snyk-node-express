@@ -8,6 +8,10 @@
 - Node.js instalado en tu sistema.
 - Un proyecto Node.js existente que utilice Lodash versión 4.17.19.
 - Acceso a la línea de comandos.
+- iniciar sesión en snyk.
+- Account settings. 
+- Generar token.
+- Crear un secret sobre el repositorio y guardar la KEY de snyk.
 
 ### Instalaciones:
 
