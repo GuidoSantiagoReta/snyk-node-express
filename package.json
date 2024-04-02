@@ -1,0 +1,16 @@
+{
+  "name": "snyk-node-express",
+  "version": "1.0.0",
+  "description": "- Este proyecto de muestra cómo utilizar Snyk para identificar y corregir vulnerabilidades en una aplicación Node.js que utiliza la biblioteca Lodash versión 4.17.19. \r - Snyk es una herramienta de seguridad que ayuda a encontrar y solucionar vulnerabilidades en bibliotecas de código abierto.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.19"
+  }
+}
