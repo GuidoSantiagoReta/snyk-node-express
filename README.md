@@ -61,3 +61,11 @@ jobs:
 ```
 - Desde snyk corregir las vulnerabilidades y hacer el pull request para que se agreguen al pipeline la actualización de los paquetes vulnerables detectados por snyk.
 
+  ### Capturas:
+  ![snyk](https://github.com/GuidoSantiagoReta/snyk-node-express/assets/46303885/ea47e1bf-83a4-46ca-bed7-c543e4a591e0)
+  
+  ![upgrade lodash](https://github.com/GuidoSantiagoReta/snyk-node-express/assets/46303885/be4386be-ced0-4700-a135-fd6629815b78)
+  
+  ![snykdashboard](https://github.com/GuidoSantiagoReta/snyk-node-express/assets/46303885/196cc832-105a-4f5d-9710-ebfb4c1b4e65)
+  
+
